@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>391560224689-5b4ch08dj97aqn2la6nh9c6icfu8ki6u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.391560224689-5b4ch08dj97aqn2la6nh9c6icfu8ki6u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCkltEJGDy7rJoUHUA5eQFbBZ4pW_xrtiM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>391560224689</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Nagiz.TecTacToeGame</string>
+	<key>PROJECT_ID</key>
+	<string>tectactoegame</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tectactoegame.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:391560224689:ios:5a53d5fcfde90e68</string>
+	<key>DATABASE_URL</key>
+	<string>https://tectactoegame.firebaseio.com</string>
+</dict>
+</plist>
